@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overpolypd", "Overpolypd.csproj", "{CB0D21BA-37F7-4DC5-BB72-4A477FFB74A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketPrinter", "..\PocketPrinter\PocketPrinter.csproj", "{FBEF4E22-06F0-4926-96FD-BD86747039FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB0D21BA-37F7-4DC5-BB72-4A477FFB74A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0D21BA-37F7-4DC5-BB72-4A477FFB74A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0D21BA-37F7-4DC5-BB72-4A477FFB74A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0D21BA-37F7-4DC5-BB72-4A477FFB74A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEF4E22-06F0-4926-96FD-BD86747039FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEF4E22-06F0-4926-96FD-BD86747039FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEF4E22-06F0-4926-96FD-BD86747039FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEF4E22-06F0-4926-96FD-BD86747039FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5EEC84-4D75-4A1B-B54F-87723720F413}
+	EndGlobalSection
+EndGlobal
