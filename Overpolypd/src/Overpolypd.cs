@@ -11,7 +11,7 @@ using BepInEx.Configuration;
 namespace Sciman101
 {
     [BepInDependency("com.bepis.r2api")]
-    [BepInPlugin("info.sciman.Overpolypd", "Overpolypd", "1.0.0")]
+    [BepInPlugin("info.sciman.Overpolypd", "Overpolypd", "1.1.0")]
     public class Overpolypd : BaseUnityPlugin
     {
 
